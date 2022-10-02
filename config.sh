@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Device
-export TWRP_MANIFEST ="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp"
-export TWRP_BRANCH ="twrp-12.1"
+export TWRP_MANIFEST="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp"
+export TWRP_BRANCH="twrp-12.1"
 export DT_LINK="https://github.com/frstprjkt/device_xiaomi_chime-recovery -b twrp-12.1"
 
 export DEVICE="chime"
